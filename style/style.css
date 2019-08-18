@@ -1,0 +1,24 @@
+.account-list {
+    margin-left: 10px;
+    margin-top: 10px;
+    text-align: center;
+    width: 50%;
+    cursor: pointer;
+    background-color: #eee;
+}
+
+.purchase-year-list {
+    margin-top: 10px;
+    margin-left: 700px;
+    width: 50%;
+    cursor: pointer;
+    background-color: #eee;
+}
+
+.purchase-year-details {
+    margin-left: 10px;
+    margin-top: 200px;
+    text-align: center;
+    width: 50%;
+    background-color: #eee;
+}
